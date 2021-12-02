@@ -44,7 +44,7 @@ To clone `darknet` and `darknet_ros` as a submodule, you must clone them with `-
 これによりsubmoduleである2つのリポジトリをまとめてcloneすることができます. -->
 ```bash
 $ cd src
-$ git clone --recursive https://github.com/Tossy0423/yolov4-for-darknet_ros.git
+$ git clone --recursive https://github.com/kyuhyong/yolov4-for-darknet_ros.git
 ```
 
 
